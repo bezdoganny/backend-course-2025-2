@@ -1,1 +1,2 @@
-
+course://web.backend?name="ÐÑÑÐ°Ð»ÑÐ¹"&group="Ð¤ÐÐ-25Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 1"#bezdoganny
+https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20160101&period=m
